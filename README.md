@@ -27,4 +27,6 @@ Access H2 Console: http://localhost:8080/h2-console
 
 ## Postman Collection
 
-Import `LibraryAPI.postman_collection.json` in Postman to test endpoints.
+Import this collection in Postman to test the API:
+
+[ LibraryAPI.postman_collection.json](LibraryAPI.postman_collection.json)
